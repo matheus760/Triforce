@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(6, 36, 62);
+}
+.espacamento{
+ padding-top: 50px;
+}
+.corcard{
+    background-color: rgb(27, 27, 88);
+}
+.cortext{
+    color: white;
+}
+.icone{
+    padding-left: 200px;
+}
+.espacamento1{
+    padding-left: 250px;
+}
+.espacamento2{
+    padding-left: 90px;
+}
+.wishlist{
+    color: #ffffff;
+    text-decoration: none;
+}
+.wishlist2:hover{
+    color: #ffffff;
+    text-decoration: none;
+}
+.espacamento3{
+    padding-top: 50px;
+}

@@ -1,0 +1,58 @@
+.fonte{
+    font-family: 'Times New Roman', Times, serif;
+}
+.espacamento{
+    padding-left: 350px;
+}
+.espacooo{
+    margin-top: 10px;
+}
+.espacooo2{
+    margin-bottom: 10px;
+}
+.espacamento4{
+    padding-left: 50px;
+}
+.espacamento10{
+    padding-left: 125px;
+}
+.espacamento18{
+    padding-left: 80px;
+}
+.espacamento15{
+    padding-left: 139px;
+}
+.espacamento11
+{
+    padding-right: 50px;
+}
+.espacamento6{
+    padding-bottom: 50px;
+}
+.espacamento1{
+    padding-bottom: 150px;
+}
+.espacamento2{
+    padding-top: 70px;
+}
+.espacamento21{
+    padding-top: 50px;
+}
+.espacamento20{
+    padding-bottom: 30px;
+}
+.coricone{
+    color: rgb(255, 255, 255);
+}
+.cortext{
+    color: rgb(0, 0, 0);
+}
+body{
+    background-image: radial-gradient(circle, rgb(25, 25, 87), rgb(14, 14, 76), rgb(11, 1, 33));
+}
+.espacamento3{
+    padding-top: 30px;
+}
+.espaca1{
+    padding-right: 15px;
+}

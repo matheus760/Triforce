@@ -1,0 +1,51 @@
+.fundocard{
+    background-color: rgb(0, 0, 0);
+}
+.espaçamento{
+    padding-top: 100px;
+}
+.espaçamento2{
+    padding-top: 15px;
+}
+.corletra{
+    color: white;
+}
+.cordt{
+    color: dimgray;
+}
+.tamanho{
+    font-size:small;
+}
+.espa{
+    padding-bottom: 50px;
+}
+.dentro{
+    margin-top: 15px;
+}
+.coricon{
+    color: darkslateblue;
+}
+body{
+    background-image: radial-gradient(circle, rgb(157, 157, 173), rgb(41, 41, 132), rgb(11, 1, 33));
+}
+.espa2{
+    padding-top: 10px;
+}
+.espa3{
+    padding-top: 7px;
+}
+.pesqui3{
+    background-color: #3434b2;
+}
+.corrodape{
+    background-color: black;
+}
+.fora{
+    margin-top: 100px;
+}
+.adv{
+    padding-left: 50px;
+}
+.adv1{
+    padding-left: 60px;
+}
